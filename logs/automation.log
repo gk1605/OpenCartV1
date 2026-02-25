@@ -1,0 +1,28 @@
+16:51:15.924 [TestNG-tests-2] DEBUG testCases.AccountLogin - debug logs
+14:01:39.358 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+14:01:39.455 [main] ERROR testCases.AccountRegistrationTC - java.lang.IllegalArgumentException: Driver must be set
+14:01:39.455 [main] DEBUG testCases.AccountRegistrationTC - debug logs
+16:54:19.287 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:54:19.696 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:54:29.469 [main] INFO  testCases.AccountRegistrationTC - pass
+16:54:29.469 [main] INFO  testCases.AccountRegistrationTC - completed
+16:54:32.997 [main] INFO  testCases.AccountLogin - ***Starting login
+16:54:33.189 [main] INFO  testCases.AccountLogin - ***clicked on account
+16:54:41.259 [main] INFO  testCases.AccountLogin - login pass
+16:54:52.794 [main] INFO  testCases.AccountLogin - completed
+18:02:02.035 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+18:02:02.949 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+18:02:12.225 [main] INFO  testCases.AccountRegistrationTC - pass
+18:02:12.225 [main] INFO  testCases.AccountRegistrationTC - completed
+18:02:15.213 [main] INFO  testCases.AccountLogin - ***Starting login
+18:02:15.464 [main] INFO  testCases.AccountLogin - ***clicked on account
+18:02:23.333 [main] INFO  testCases.AccountLogin - login pass
+18:02:34.539 [main] INFO  testCases.AccountLogin - completed
+18:27:27.470 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+18:27:27.697 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+18:27:35.176 [main] INFO  testCases.AccountRegistrationTC - pass
+18:27:35.176 [main] INFO  testCases.AccountRegistrationTC - completed
+18:27:37.685 [main] INFO  testCases.AccountLogin - ***Starting login
+18:27:37.940 [main] INFO  testCases.AccountLogin - ***clicked on account
+18:27:45.088 [main] INFO  testCases.AccountLogin - login pass
+18:27:55.663 [main] INFO  testCases.AccountLogin - completed

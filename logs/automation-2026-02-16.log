@@ -1,0 +1,57 @@
+16:57:06.177 [TestNG-tests-1] DEBUG testCases.AccountRegistrationTC - debug logs
+16:57:06.455 [TestNG-tests-2] ERROR testCases.AccountRegistrationTC - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (961, 847)
+  (Session info: chrome=144.0.7559.133)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27ca388359cc500ea9ceca869d54e951, clickElement {id=f.9291F6F80BAC3C26685F1D87499BD358.d.49005EC5444F14E301695D94547DFF64.e.89}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\gopal\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63252}, goog:processID: 388, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63252/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (27ca388359cc500ea9ceca869d54e951)] -> xpath: //input[@name='agree']]
+Session ID: 27ca388359cc500ea9ceca869d54e951
+16:57:06.455 [TestNG-tests-2] DEBUG testCases.AccountRegistrationTC - debug logs
+16:57:50.279 [TestNG-tests-1] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:57:50.281 [TestNG-tests-2] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:57:50.582 [TestNG-tests-1] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:57:50.633 [TestNG-tests-2] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:57:55.994 [TestNG-tests-2] ERROR testCases.AccountRegistrationTC - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (961, 847)
+  (Session info: chrome=144.0.7559.133)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e0c71a178533ac8d315e59dfabf0f167, clickElement {id=f.AF4C922ED6CC8233878E9951FB283E59.d.CC800D6655DDEE2DCF4F27EDA3C96F92.e.83}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\gopal\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57720}, goog:processID: 12452, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57720/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e0c71a178533ac8d315e59dfabf0f167)] -> xpath: //input[@name='agree']]
+Session ID: e0c71a178533ac8d315e59dfabf0f167
+16:57:55.994 [TestNG-tests-2] DEBUG testCases.AccountRegistrationTC - debug logs
+16:58:01.142 [TestNG-tests-1] INFO  testCases.AccountRegistrationTC - pass
+16:58:01.142 [TestNG-tests-1] INFO  testCases.AccountRegistrationTC - completed
+16:58:24.854 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:58:25.024 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:58:35.176 [main] INFO  testCases.AccountRegistrationTC - pass
+16:58:35.176 [main] INFO  testCases.AccountRegistrationTC - completed
+16:58:36.925 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:58:37.030 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:58:47.037 [main] INFO  testCases.AccountRegistrationTC - pass
+16:58:47.037 [main] INFO  testCases.AccountRegistrationTC - completed
+16:59:10.020 [TestNG-tests-1] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:59:10.020 [TestNG-tests-2] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:59:10.291 [TestNG-tests-1] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:59:10.312 [TestNG-tests-2] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:59:15.464 [TestNG-tests-2] ERROR testCases.AccountRegistrationTC - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (961, 847)
+  (Session info: chrome=144.0.7559.133)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [02e3f555fbaef4411a816374757dbf13, clickElement {id=f.E1C5BC0B7B8059EC157470CE031E48A9.d.51A4854E92E94EB6EB3D5C31AF0D9D9D.e.82}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\gopal\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54182}, goog:processID: 12424, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54182/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (02e3f555fbaef4411a816374757dbf13)] -> xpath: //input[@name='agree']]
+Session ID: 02e3f555fbaef4411a816374757dbf13
+16:59:15.464 [TestNG-tests-1] ERROR testCases.AccountRegistrationTC - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (957, 847)
+  (Session info: MicrosoftEdge=145.0.3800.58)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [7d7490e5a3cbd4cc8b9be7e4ffad45b9, clickElement {id=f.0BA235910A295B8EEA8B6448B50363FB.d.6DCA8B7D2301FE1B1E80DB421BD0D673.e.84}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 145.0.3800.58, fedcm:accounts: true, goog:processID: 6724, ms:edgeOptions: {debuggerAddress: localhost:54183}, msedge: {msedgedriverVersion: 145.0.3800.58 (64ad1900648f..., userDataDir: C:\Users\gopal\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54183/devtoo..., se:cdpVersion: 145.0.3800.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (7d7490e5a3cbd4cc8b9be7e4ffad45b9)] -> xpath: //input[@name='agree']]
+Session ID: 7d7490e5a3cbd4cc8b9be7e4ffad45b9

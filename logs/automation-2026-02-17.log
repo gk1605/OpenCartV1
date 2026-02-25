@@ -1,0 +1,45 @@
+16:59:15.466 [TestNG-tests-1] DEBUG testCases.AccountRegistrationTC - debug logs
+16:59:15.466 [TestNG-tests-2] DEBUG testCases.AccountRegistrationTC - debug logs
+17:18:31.442 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+17:18:31.673 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+17:18:36.757 [main] ERROR testCases.AccountRegistrationTC - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (957, 845)
+  (Session info: MicrosoftEdge=145.0.3800.58)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [23993c0c50bccff69328d0d2baf7db27, clickElement {id=f.C65672A1864BA2E801856DC4B2C29E8C.d.830768D1AA7B9312B1B48DDB328D94F6.e.88}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 145.0.3800.58, fedcm:accounts: true, goog:processID: 13532, ms:edgeOptions: {debuggerAddress: localhost:56367}, msedge: {msedgedriverVersion: 145.0.3800.58 (64ad1900648f..., userDataDir: C:\Users\gopal\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56367/devtoo..., se:cdpVersion: 145.0.3800.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (23993c0c50bccff69328d0d2baf7db27)] -> xpath: //input[@name='agree']]
+Session ID: 23993c0c50bccff69328d0d2baf7db27
+17:18:36.758 [main] DEBUG testCases.AccountRegistrationTC - debug logs
+17:18:38.712 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+17:18:38.825 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+17:18:43.708 [main] ERROR testCases.AccountRegistrationTC - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (961, 845)
+  (Session info: chrome=144.0.7559.133)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32d8f2020b69a43cf09bef5241a7b351, clickElement {id=f.B71A12AAF67FAC242B408CBB01D81E4F.d.D625995389072D85BA8D58C374642342.e.86}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\gopal\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56937}, goog:processID: 13804, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56937/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (32d8f2020b69a43cf09bef5241a7b351)] -> xpath: //input[@name='agree']]
+Session ID: 32d8f2020b69a43cf09bef5241a7b351
+17:18:43.708 [main] DEBUG testCases.AccountRegistrationTC - debug logs
+17:19:17.251 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+17:19:17.447 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+17:19:27.575 [main] INFO  testCases.AccountRegistrationTC - pass
+17:19:27.575 [main] INFO  testCases.AccountRegistrationTC - completed
+17:19:29.223 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+17:19:29.327 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+17:19:39.361 [main] INFO  testCases.AccountRegistrationTC - pass
+17:19:39.361 [main] INFO  testCases.AccountRegistrationTC - completed
+13:36:22.847 [main] INFO  testCases.AccountLogin - ***Starting
+13:36:23.168 [main] INFO  testCases.AccountLogin - ***clicked on account
+13:36:30.739 [main] INFO  testCases.AccountLogin - pass
+13:36:30.739 [main] INFO  testCases.AccountLogin - completed
+13:40:14.614 [main] INFO  testCases.AccountLogin - ***Starting login
+13:40:14.885 [main] INFO  testCases.AccountLogin - ***clicked on account
+13:40:22.425 [main] ERROR testCases.AccountLogin - login  Failed
+13:40:22.425 [main] DEBUG testCases.AccountLogin - debug logs
+13:40:59.668 [main] INFO  testCases.AccountLogin - ***Starting login
+13:40:59.872 [main] INFO  testCases.AccountLogin - ***clicked on account
+13:41:07.378 [main] INFO  testCases.AccountLogin - login pass

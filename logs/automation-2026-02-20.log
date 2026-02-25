@@ -1,0 +1,46 @@
+15:54:39.489 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+15:54:40.384 [main] ERROR testCases.AccountRegistrationTC - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "jas" is null
+15:54:40.389 [main] DEBUG testCases.AccountRegistrationTC - debug logs
+16:08:01.515 [main] INFO  testCases.AccountLogin - ***Starting login
+16:08:01.698 [main] INFO  testCases.AccountLogin - ***clicked on account
+16:08:08.587 [main] INFO  testCases.AccountLogin - login pass
+16:08:18.658 [main] INFO  testCases.AccountLogin - completed
+16:08:22.189 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:08:22.331 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:08:22.938 [main] ERROR testCases.AccountRegistrationTC - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+16:08:22.938 [main] DEBUG testCases.AccountRegistrationTC - debug logs
+16:10:43.332 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:10:43.496 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:10:44.214 [main] ERROR testCases.AccountRegistrationTC - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+16:10:44.214 [main] DEBUG testCases.AccountRegistrationTC - debug logs
+16:12:14.412 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:12:14.621 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:12:19.678 [main] ERROR testCases.AccountRegistrationTC - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (961, 847)
+  (Session info: chrome=145.0.7632.75)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ceaebbd601df27e00c1494eba7227d3a, clickElement {id=f.9A61AF3CDD8C15BFEFD1E1C833A343B4.d.F88484A5B68102510C9AF244DD823012.e.83}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.75, chrome: {chromedriverVersion: 145.0.7632.77 (da516187054a..., userDataDir: C:\Users\gopal\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56834}, goog:processID: 22304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56834/devtoo..., se:cdpVersion: 145.0.7632.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ceaebbd601df27e00c1494eba7227d3a)] -> xpath: //input[@name='agree']]
+Session ID: ceaebbd601df27e00c1494eba7227d3a
+16:12:19.678 [main] DEBUG testCases.AccountRegistrationTC - debug logs
+16:12:58.753 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:12:58.929 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:13:09.163 [main] INFO  testCases.AccountRegistrationTC - pass
+16:13:09.163 [main] INFO  testCases.AccountRegistrationTC - completed
+16:22:17.581 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:22:17.836 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:22:18.870 [main] ERROR testCases.AccountRegistrationTC - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "jas" is null
+16:22:18.870 [main] DEBUG testCases.AccountRegistrationTC - debug logs
+16:23:09.455 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:23:09.673 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:23:19.833 [main] INFO  testCases.AccountRegistrationTC - pass
+16:23:19.833 [main] INFO  testCases.AccountRegistrationTC - completed
+16:33:30.148 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:33:30.316 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:33:30.945 [main] ERROR testCases.AccountRegistrationTC - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "pageObjects.Registrationpage.driver" is null
+16:33:30.945 [main] DEBUG testCases.AccountRegistrationTC - debug logs
+16:34:41.843 [main] INFO  testCases.AccountRegistrationTC - ***Starting TC
+16:34:42.049 [main] INFO  testCases.AccountRegistrationTC - ***clicked on account
+16:34:42.697 [main] ERROR testCases.AccountRegistrationTC - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "pageObjects.Registrationpage.driver" is null
