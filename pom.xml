@@ -35,30 +35,6 @@
             </suiteXmlFiles>
           </configuration>
         </plugin>
-               <profiles>
-  <profile>
-    <id>rerun-failed-tests</id>
-    <activation>
-      <file>
-        <exists>target/surefire-reports/testng-failed.xml</exists>
-      </file>
-    </activation>
-    <build>
-      <plugins>
-        <plugin>
-          <groupId>org.apache.maven.plugins</groupId>
-          <artifactId>maven-surefire-plugin</artifactId>
-          <version>3.5.5</version>
-          <configuration>
-            <suiteXmlFiles>
-              <suiteXmlFile>target/surefire-reports/testng-failed.xml</suiteXmlFile>
-            </suiteXmlFiles>
-          </configuration>
-        </plugin>
-      </plugins>
-    </build>
-  </profile>
-</profiles>
       </plugins>
     </pluginManagement>
   </build>
